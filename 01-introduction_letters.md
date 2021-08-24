@@ -1,4 +1,4 @@
-# The "Letters that Lead" Assignment
+# Letters that Lead Assignment
 
 ## Welcome to this assignment!
 
