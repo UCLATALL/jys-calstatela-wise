@@ -4,6 +4,6 @@ Cal State LA students have experienced the transition to college in different wa
 
 <iframe data-type="vimeo" id="590026944" width="640" height="360" src="https://player.vimeo.com/video/590026944" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<iframe data-type="learnosity" id="wise-stories"  src="https://coursekata.org/learnosity/preview/wise-stories" width="100%" height="1470"></iframe>
+<iframe data-type="learnosity" id="wise-stories"  src="https://coursekata.org/learnosity/preview/wise-stories" width="100%" height="1800"></iframe>
 
 
